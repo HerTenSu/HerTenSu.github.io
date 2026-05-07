@@ -35,7 +35,8 @@ I am currently working on research problems related to **AI security evaluation*
 
 1. **Zeyu Zhao**, Ke Xu, Tanfeng Sun, Xinghao Jiang.  
    **SRAP: Robust and Transferable Self-Reversible Adversarial Patch for Image Privacy Protection**.  
-   *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 21, pp. 3689–3702, 2026.
+   *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 21, pp. 3689–3702, 2026.[[Paper PDF](https://ieeexplore.ieee.org/abstract/document/11450347)] 
+[[Code](https://github.com/HerTenSu/TIFS26_SRAP)]
    
 1. **Zeyu Zhao**, Ke Xu, Tanfeng Sun, Xinghao Jiang.  
    **ASGA: Attention-based Sparse Global Attack to Video Action Recognition**.  
