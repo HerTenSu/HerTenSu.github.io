@@ -9,7 +9,7 @@ redirect_from:
 
 # Zeyu Zhao
 
-I am a **Ph.D. student** in **Cyberspace Security** at the **School of Computer Science**, **Shanghai Jiao Tong University**.
+I am a **Postdoctoral researcher** in **Cyberspace Security** at the **School of Computer Science**, **Shanghai Jiao Tong University**.
 
 My research lies at the intersection of **Artificial Intelligence**, **AI Security**, and **Adversarial Machine Learning**, with a particular focus on:
 
