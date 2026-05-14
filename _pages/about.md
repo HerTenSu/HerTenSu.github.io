@@ -24,7 +24,7 @@ I am currently working on research problems related to **AI security evaluation*
 
 ## Education
 
-- **Ph.D. in Cyberspace Security**, *Shanghai Jiao Tong University*, 2022–Present  
+- **Ph.D. in Cyberspace Security**, *Shanghai Jiao Tong University*, 2022–2026
   Advisor: Prof. Xinghao Jiang
 
 - **M.S. in Cyberspace Security**, *Shanghai Jiao Tong University*, 2020–2022
