@@ -95,6 +95,7 @@ I have served as a reviewer for the following journals:
 - *Expert Systems with Applications* (**ESWA**)
 - *Neurocomputing*
 - *Scientific Reports*
+- *Pattern Analysis and Applications*
 
 ---
 
